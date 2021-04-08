@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="company_search">Company Search</string>
+    <string name="search_for_companies">Search for companies</string>
+    <string name="company_detail">Company Detail</string>
+</resources>
